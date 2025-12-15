@@ -5,3 +5,5 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/School.png" alt="School" width="25" height="25" />Status: Vocational School Student, Software Development Department
 <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House%20with%20Garden.png" alt="House with Garden" width="25" height="25" />Hometown: Saga, Japan
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanakee&show_icons=true&theme=radical)
